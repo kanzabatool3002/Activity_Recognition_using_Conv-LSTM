@@ -1,17 +1,20 @@
 # Video Activity Recognition using Conv-LSTM (Convolutional Long Short-Term Memory)
 
 
-Why Conv-LSTM?
+# Why Conv-LSTM?
+
 Conv-LSTM (Convolutional Long Short-Term Memory) is an advanced deep learning architecture designed for spatiotemporal sequence processing. It effectively captures both spatial features (using convolution layers) and temporal dependencies (using LSTM units), making it well-suited for video-based activity recognition.
 
-Key Benefits of Using Conv-LSTM for Video Activity Recognition:
+# Key Benefits of Using Conv-LSTM for Video Activity Recognition:
+
 Capturing Spatial Features: CNN layers extract meaningful spatial features from individual frames.
 Understanding Temporal Dynamics: LSTM layers analyze sequential dependencies across frames, making it ideal for tracking activities over time.
 Better than Frame-Wise CNNs: Unlike simple CNN-based classifiers that process each frame independently, Conv-LSTM maintains context over time, improving recognition accuracy.
 Handling Varying Video Lengths: LSTM’s sequential processing allows flexible input lengths, accommodating videos of different durations.
 
 
-Dataset & Preprocessing:
+# Dataset & Preprocessing:
+
 The dataset, stored on Google Drive, consists of video sequences that are preprocessed by extracting frames, resizing them to 64×64 pixels, normalizing pixel values, and feeding them into the model. Training was conducted on Google Colab using various Python libraries, including:
 
 TensorFlow for deep learning
