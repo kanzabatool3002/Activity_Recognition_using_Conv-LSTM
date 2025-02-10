@@ -22,7 +22,7 @@ The dataset, stored on Google Drive, consists of video sequences that are prepro
 - Matplotlib for visualization
 - Scikit-learn for dataset splitting
 
-[Dataset](https://drive.google.com/drive/folders/1jhk5NHXN8Ktn5KN4V5RBKpGw81XBALo9?usp=drive_link)
+[Dataset](https://drive.google.com/drive/folders/1jhk5NHXN8Ktn5KN4V5RBKpGw81XBALo9?usp=sharing)
 
 
 # ConvLSTM Model Architecture:
