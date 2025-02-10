@@ -52,3 +52,8 @@ The model is trained using the Adam optimizer with a learning rate of 0.0001, ca
 # Performance & Evaluation:
 
 After extensive training and testing, the ConvLSTM model achieves an accuracy of 80.95%, demonstrating its effectiveness in recognizing human activities in video sequences.
+
+To test the model accuracy after training you can use this Repository.....
+
+[Activity Recognition Model Testing Repository](https://github.com/kanzabatool3002/Activity_Recognition_Model_Testing.git)
+
