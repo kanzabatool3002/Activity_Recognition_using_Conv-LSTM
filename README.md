@@ -24,6 +24,9 @@ The dataset, stored on Google Drive, consists of video sequences that are prepro
 
 # ConvLSTM Model Architecture:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kanzabatool3002/Activity_Recognition_using_Conv-LSTM/blob/main/Activity_Recognition_Using__Conv_LSTM.ipynb)
+
+
 The ConvLSTM-based model follows a robust deep learning pipeline consisting of:
 
 - Two ConvLSTM2D layers with tanh activation
